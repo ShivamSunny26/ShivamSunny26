@@ -1,0 +1,74 @@
+{
+  "github_username": "ShivamSunny26",
+  "include_private": false,
+  "exclude_repos": [],
+  "exclude_languages": [],
+
+  "name": "Shivam Kumar",
+  "roles": ["BACKEND DEVELOPER", "DATA ANALYST", "PYTHON ENTHUSIAST"],
+  "tagline": [
+    "Building reliable systems  •  Turning data into insights",
+    "Solving real-world problems"
+  ],
+  "header_small": ["BUILDING APIS  +  ANALYZING DATA", "=  BETTER SOLUTIONS"],
+  "header_motto": ["Code", "Analyze", "Build", "Grow"],
+
+  "about": "I'm Shivam, a passionate developer and data enthusiast who loves building web applications, designing secure backend systems, and exploring data to find meaningful insights. I enjoy working with modern technologies, solving complex problems, and turning ideas into real-world products.",
+  "facts": [
+    ["Currently working on:", "Backend APIs, data analysis & projects."],
+    ["Learning:", "Advanced Python, FastAPI, PostgreSQL, system design."],
+    ["Interested in:", "REST APIs, GraphQL, database design, data visualization."],
+    ["Goal:", "To grow as a skilled backend developer and data analyst."],
+    ["Fun fact:", "I believe in building, breaking, debugging and improving."]
+  ],
+
+  "education": {"title": "Education", "lines": ["MCA | Master of Computer Applications", "(Currently Pursuing)"]},
+  "focus": {"title": "Focus Areas", "lines": ["Backend Development", "Data Analysis & Visualization"]},
+  "interests": {"title": "Interests", "lines": ["Technology, Data, Problem Solving,", "Open Source, Continuous Learning"]},
+  "side_quote": ["Better code.", "Better data.", "A better tomorrow."],
+
+  "tech_stack": [
+    {"title": "Languages", "items": [["Python", "#3776AB"], ["Java", "#ED8B00"], ["JavaScript", "#F7DF1E"]]},
+    {"title": "Backend & APIs", "items": [["FastAPI", "#009688"], ["REST APIs", "#0F766E"], ["GraphQL", "#E10098"]]},
+    {"title": "Databases", "items": [["PostgreSQL", "#4169E1"], ["MongoDB", "#47A248"], ["Redis", "#DC382D"], ["Supabase", "#3ECF8E"]]},
+    {"title": "Data Analytics", "items": [["SQL", "#4169E1"], ["Pandas", "#150458"], ["NumPy", "#4DABCF"], ["Power BI", "#F2C811"], ["Matplotlib", "#11557C"], ["Seaborn", "#4C72B0"]]},
+    {"title": "Tools & Platforms", "items": [["Git", "#F05032"], ["GitHub", "#30363d"], ["Docker", "#2496ED"], ["Postman", "#FF6C37"], ["Vercel", "#000000"]]}
+  ],
+
+  "projects": [
+    {
+      "name": "Campus Hustle", "status": "Completed", "mock": "browser", "color": "#10b981",
+      "description": "A campus marketplace concept that helps students discover laundry services and connect with providers without losing offers in crowded chat groups.",
+      "tags": [["React", "#38bdf8"], ["FastAPI", "#10b981"], ["PostgreSQL", "#60a5fa"], ["REST API", "#38bdf8"]],
+      "repo": "https://github.com/ShivamSunny26/campus"
+    },
+    {
+      "name": "Just_share", "status": "Completed", "mock": "phone", "color": "#3b82f6",
+      "description": "An ephemeral messaging app focused on temporary conversations, authentication, and privacy-conscious chat experiences.",
+      "tags": [["FastAPI", "#10b981"], ["PostgreSQL", "#60a5fa"], ["Redis", "#f87171"], ["WebSocket", "#a78bfa"]],
+      "repo": "https://github.com/ShivamSunny26/just_share"
+    },
+    {
+      "name": "GrabOn", "status": "In Development", "mock": "shop", "color": "#22c55e",
+      "description": "An e-commerce application inspired by modern shopping platforms, with a focus on backend architecture and database design.",
+      "tags": [["FastAPI", "#10b981"], ["PostgreSQL", "#60a5fa"], ["GraphQL", "#e879f9"], ["REST API", "#38bdf8"]],
+      "repo": "https://github.com/ShivamSunny26?tab=repositories"
+    }
+  ],
+
+  "workflow": [
+    ["Data Cleaning", "Handle missing values, fix inconsistencies"],
+    ["Exploratory Analysis", "Find patterns, relationships & outliers"],
+    ["SQL Analysis", "Queries, joins, aggregations"],
+    ["Visualization", "Charts, dashboards & storytelling"],
+    ["Insights", "Make data-driven decisions"]
+  ],
+
+  "journey": "Completed several practice and portfolio projects, continuously learning and building skills in backend development and data analytics.",
+  "footer_quote": ["Build systems.", "Understand data.", "Create impact."],
+  "contact": {
+    "github": "@ShivamSunny26",
+    "linkedin_text": "Connect with me",
+    "email": "shivam@example.com"
+  }
+}
