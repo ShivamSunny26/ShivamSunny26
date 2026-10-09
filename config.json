@@ -68,7 +68,8 @@
   "footer_quote": ["Build systems.", "Understand data.", "Create impact."],
   "contact": {
     "github": "@ShivamSunny26",
-    "linkedin_text": "Connect with me",
-    "email": "shivam@example.com"
+    "linkedin": "https://www.linkedin.com/in/shivamkumar2607/",
+    "linkedin_text": "in/shivamkumar2607",
+    "email": "shivam39602@gmail.com"
   }
 }
