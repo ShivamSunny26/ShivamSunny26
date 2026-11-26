@@ -2,30 +2,30 @@
   "username": "ShivamSunny26",
   "updated": "2026-11-26",
   "repositories": 12,
-  "commits_3mo": 35,
+  "commits_3mo": 39,
   "issues": 0,
-  "contributions_1y": 212,
-  "current_streak": 0,
+  "contributions_1y": 216,
+  "current_streak": 1,
   "longest_streak": 4,
   "languages": [
     {
       "name": "Jupyter Notebook",
-      "percent": 52.5,
+      "percent": 52.1,
       "color": "#DA5B0B"
     },
     {
       "name": "JavaScript",
-      "percent": 17.0,
+      "percent": 17.1,
       "color": "#f1e05a"
     },
     {
       "name": "Python",
-      "percent": 15.5,
+      "percent": 16.0,
       "color": "#3572A5"
     },
     {
       "name": "HTML",
-      "percent": 11.3,
+      "percent": 11.2,
       "color": "#e34c26"
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "Others",
-      "percent": 0.2,
+      "percent": 0.1,
       "color": "#6e7681"
     }
   ],
@@ -216,7 +216,7 @@
       2,
       2,
       0,
-      0
+      1
     ]
   ]
 }
